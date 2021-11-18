@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 ### 💡 Experienced
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/styled--components-DB7093.svg?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Socket.io-aed581?style=flat-square&logo=socket.io&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white">  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> 
 
-<br/>
-
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eom-Hyejin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---> 
