@@ -1,8 +1,4 @@
 
-<!---
-Eom-Hyejin/Eom-Hyejin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=#ffeb3b&height=300&section=header&text=Eom-Hyejin&fontSize=90) -->
 ## I'm Amazing✨
 ![](https://www.codewars.com/users/Eom-Hyejin/badges/small)
@@ -17,3 +13,5 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eom-Hyejin&langs_count=10&layout=compact)
+
+
